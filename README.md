@@ -25,7 +25,7 @@ Arquivo: q3.js
 
 Fonte de dados: [dados.json](https://drive.google.com/file/d/1qXvCPjEL4jerElN-hnScoKkEVmSQ8A2L/view)
 
-#### Questão 4: Percentual de faturamento por estado
+### Questão 4: Percentual de faturamento por estado
 Descrição:
 Calcula o percentual de contribuição de cada estado no faturamento mensal da distribuidora.
 
